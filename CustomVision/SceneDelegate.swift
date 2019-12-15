@@ -1,10 +1,4 @@
-//
-//  SceneDelegate.swift
-//  CustomVision
-//
-//  Created by MinGyu Ju on 13/12/2019.
-//  Copyright © 2019 RecursiveSoft. All rights reserved.
-//
+
 
 import UIKit
 
